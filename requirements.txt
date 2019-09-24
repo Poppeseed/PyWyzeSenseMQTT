@@ -1,0 +1,2 @@
+paho-mqtt==1.4.0
+wyzesense==0.0.4
